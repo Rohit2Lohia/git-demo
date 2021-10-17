@@ -1,3 +1,6 @@
 Test Git Quick Start demo
 
 Here we are adding some new line to our project.
+
+Changes made by remote 1
+
